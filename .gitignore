@@ -1,0 +1,8 @@
+/target/
+/.idea/
+/.vscode/
+*.log
+*.class
+*.pyc
+__pycache__/
+/images/generated/
