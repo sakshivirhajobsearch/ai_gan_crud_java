@@ -1,8 +1,9 @@
-/target/
-/.idea/
-/.vscode/
-*.log
+/target
 *.class
+*.log
+*.iml
 *.pyc
 __pycache__/
-/images/generated/
+/src/main/resources/static/images/
+.idea
+*.db
