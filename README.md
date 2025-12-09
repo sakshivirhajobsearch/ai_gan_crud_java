@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** GAN, Java, Python
+- **Detected Technologies:** Python, Java (Maven/Gradle), Spring Boot
 - **GitHub Topics:** None
 
 ---
